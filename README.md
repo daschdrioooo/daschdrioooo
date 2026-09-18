@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali
 
-<!--
-**daschdrioooo/daschdrioooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **secondary school coder** situated in the UK fascinated by how things work on **The web** and in **computers**.
 
-Here are some ideas to get you started:
+I build **websites**, with hopefully more to come, trying to learn new things along the way. I'm currently trying to learn C++ in prep for the British Informatics Olympiad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+**Xenon-OS**, A **web-based operating system** designed to run right in your browser, for **Hack club's thirdspace YSWS.**
+
+## Interests
+
+* Software engineering
+* Web development
+* Computer Architecture
+* AI & Neural Networks
+* Systems-level programming
+
+## Favourite coding languages
+
+* C++
+* HTML
+* Bash
