@@ -6,7 +6,7 @@ I build **websites**, with hopefully more to come, trying to learn new things al
 
 ## Currently Building
 
-**Ingenio**, A **maths past paper and revision website**, similar to DrFrostMaths, also for **Hack Club's thirdspace YSWS.**
+**Ingenio**, A **maths past paper and revision website**, similar to DrFrostMaths.
 
 ## Interests
 
